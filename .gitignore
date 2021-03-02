@@ -1,0 +1,12 @@
+.vscode/
+/__pycache__/
+/py37/
+/download.py
+/draft.py
+/issues
+/main0.py
+/main.py
+/multi_workers.py
+/readme
+/test_code.py
+/README.md
