@@ -2,8 +2,9 @@
 This project has been implemented based on a research that was carried out by INRS, Quebec City, Quebec, Canada. The main objective of this project is 
 predicting the flood zones using remote sensing analysis and artificial intelligence.
 
-**under development**
 I tried to explain it using a [presentation file](https://github.com/arashmad/flood-prediction/blob/master/POTENTIAL_OF_HISTORICAL_LANDSAT_TM_ETM_IMAGERY_FOR_THE_DELINEATION_V1.pptx).
+
+> This program is under development now.
 
 # Instruction
 This project is based on `python 3.7.4` and applies different python libraries. So that you need to install all the requirements on your machine.
