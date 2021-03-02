@@ -46,4 +46,3 @@ When local environment is active, use `pip` package manager to installed neccess
 ```
 pip install <package_name>
 ```
-**under development**
